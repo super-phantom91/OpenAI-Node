@@ -1,4 +1,4 @@
-# OpenAI API Quickstart - Node.js
+# OpenAI API - Node.js
 
 This repository provides a collection of examples demonstrating how to use the OpenAI APIs with the Node.js SDK.
 
@@ -27,13 +27,13 @@ To run the examples with the Node.js SDK, you will need:
 1. Clone this repository
 
    ```bash
-   $ git clone https://github.com/openai/openai-quickstart-node.git
+   $ git clone https://github.com/super-phantom91/OpenAI-Node.git
    ```
 
 2. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-node
+   $ cd OpenAI-Node
    ```
 
 3. Install the OpenAI Node.js SDK
@@ -155,9 +155,4 @@ Explore the examples below to learn how to use the Node.js SDK for your specific
   </tr>
 </table>
 
-## Additional Resources
 
-For more in-depth examples within front-end applications, including with streaming responses, check out these additional resources:
-
-- [Assistants API Quickstart](https://github.com/openai/openai-assistants-quickstart)
-- [Sample apps with Structured Outputs](https://github.com/openai/openai-structured-outputs-samples)
